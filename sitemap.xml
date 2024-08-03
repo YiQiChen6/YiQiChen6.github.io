@@ -11,24 +11,6 @@
   </url>
   
   <url>
-    <loc>http://yiqichen.com/title%20/</loc>
-    
-    <lastmod>2024-08-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yiqichen.com/title%20/</loc>
-    
-    <lastmod>2024-08-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://yiqichen.com/about/index.html</loc>
     
     <lastmod>2024-08-03</lastmod>
@@ -82,20 +64,6 @@
   </url>
 
   
-  <url>
-    <loc>http://yiqichen.com/tags/network/</loc>
-    <lastmod>2024-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>http://yiqichen.com/categories/66/</loc>
-    <lastmod>2024-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
