@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>nginx</title>
-    <url>/posts/a477be03/</url>
+    <url>/title%20/</url>
     <content><![CDATA[<h2 id="1-案例1：部署LNMP环境"><a href="#1-案例1：部署LNMP环境" class="headerlink" title="1 案例1：部署LNMP环境"></a>1 案例1：部署LNMP环境</h2><h3 id="1-1-问题"><a href="#1-1-问题" class="headerlink" title="1.1 问题"></a>1.1 问题</h3><p>安装部署LNMP环境实现动态网站解析</p>
 <p>静态网站 在不同环境下访问，网站内容不会变化</p>
 <p>动态网站 在不同环境下访问，网站内容有可能发生变化</p>
@@ -175,7 +175,7 @@
   </entry>
   <entry>
     <title>nginx</title>
-    <url>/posts/a477be03/</url>
+    <url>/title%20/</url>
     <content><![CDATA[<h2 id="1-环境准备"><a href="#1-环境准备" class="headerlink" title="1 环境准备"></a>1 环境准备</h2><p>使用了最小化的系统，需要提前安装一些常用工具</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">yum -y install vim                <span class="comment">#安装vim编辑器</span></span><br><span class="line">yum list | grep bash                <span class="comment">#查询名字和bash有关的软件包</span></span><br><span class="line">yum -y install bash-completion        <span class="comment">#安装支持tab键的软件包，装好之后，使用exit退出，重新登录才生效</span></span><br><span class="line">Yum -y install net-tools            <span class="comment">#安装网络相关软件包</span></span><br><span class="line">yum -y install tar            <span class="comment">#安装支持tar命令的软件</span></span><br><span class="line">然后将lnmp_soft.tar.gz 传入虚拟机的root家目录</span><br><span class="line">情况一，教室环境：</span><br><span class="line">scp  $教学资料目录/lnmp_soft.tar.gz  192.168.99.5:</span><br><span class="line">情况二，非教室环境：</span><br><span class="line">使用WindTerm或MobaXterm等工具拖拽</span><br></pre></td></tr></table></figure>
 
@@ -305,7 +305,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/posts/16107/</url>
+    <url>/title%20/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
