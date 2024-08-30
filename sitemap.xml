@@ -4,7 +4,16 @@
   <url>
     <loc>http://yiqichen.com/title%20/</loc>
     
-    <lastmod>2024-08-05</lastmod>
+    <lastmod>2024-08-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yiqichen.com/title%20/</loc>
+    
+    <lastmod>2024-08-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +22,7 @@
   <url>
     <loc>http://yiqichen.com/about/index.html</loc>
     
-    <lastmod>2024-08-05</lastmod>
+    <lastmod>2024-08-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +31,7 @@
   <url>
     <loc>http://yiqichen.com/archives/index.html</loc>
     
-    <lastmod>2024-08-05</lastmod>
+    <lastmod>2024-08-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +40,7 @@
   <url>
     <loc>http://yiqichen.com/categories/index.html</loc>
     
-    <lastmod>2024-08-05</lastmod>
+    <lastmod>2024-08-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +49,7 @@
   <url>
     <loc>http://yiqichen.com/home/index.html</loc>
     
-    <lastmod>2024-08-05</lastmod>
+    <lastmod>2024-08-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +58,7 @@
   <url>
     <loc>http://yiqichen.com/tags/index.html</loc>
     
-    <lastmod>2024-08-05</lastmod>
+    <lastmod>2024-08-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,15 +67,22 @@
 
   <url>
     <loc>http://yiqichen.com/</loc>
-    <lastmod>2024-08-05</lastmod>
+    <lastmod>2024-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>http://yiqichen.com/tags/life/</loc>
+    <lastmod>2024-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://yiqichen.com/tags/hexo/</loc>
-    <lastmod>2024-08-05</lastmod>
+    <lastmod>2024-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -74,8 +90,15 @@
 
   
   <url>
+    <loc>http://yiqichen.com/categories/life/</loc>
+    <lastmod>2024-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://yiqichen.com/categories/hexo/</loc>
-    <lastmod>2024-08-05</lastmod>
+    <lastmod>2024-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
