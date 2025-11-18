@@ -6,7 +6,7 @@
   <link href="http://yiqichen.com/atom.xml" rel="self"/>
   
   <link href="http://yiqichen.com/"/>
-  <updated>2025-11-18T10:53:19.990Z</updated>
+  <updated>2025-11-18T11:01:15.453Z</updated>
   <id>http://yiqichen.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yiqichen.com/title%20/"/>
     <id>http://yiqichen.com/title%20/</id>
     <published>2024-08-04T16:00:00.000Z</published>
-    <updated>2025-11-18T10:53:19.990Z</updated>
+    <updated>2025-11-18T11:01:15.453Z</updated>
     
     <content type="html"><![CDATA[<h1 id="写博客的重要性"><a href="#写博客的重要性" class="headerlink" title="写博客的重要性"></a>写博客的重要性</h1><ol><li><p><strong>对知识点总结、回顾、思考</strong></p><ul><li>写作整理资源、补充学习</li><li>加深对技术理解，不懂得，就会查阅资料</li><li>给自己的岁月留下痕迹</li></ul><span id="more"></span></li><li><p><strong>帮助别人</strong></p><ul><li>别人通过你的博客学习到一些知识</li><li>帮助后来者节省时间</li><li>发表的网络文章会被收录 各种AI大模型，你的思想将影响未来世界</li></ul></li><li><p><strong>自己以后可能用得到</strong></p><ul><li>某天遇到同样得问题，可以快速翻阅查看</li><li>遇到同样的问题，记忆会很深刻</li></ul></li><li><p><strong>提高个人知名度</strong></p><ul><li>通过写博客，整理思维，后续可以出书或者出视频</li><li>文章被大家阅读，有喜悦感，有一种认可感觉</li></ul></li><li><p><strong>碎片化学习</strong></p><ul><li>整理成文，成体系，才不会淹没在碎片化学习中</li></ul></li><li><p><strong>认识更多志同道合朋友</strong></p></li><li><p><strong>提高个人的技术写作和思维能力</strong></p><ul><li>博客写的越多，思维越来越清晰</li><li>也可以提高快速解决问题的思维角度</li><li>说不定某一天整理出书</li></ul></li><li><p><strong>除了自己，不会有别人审查你发布的文章，最大的言论自由</strong></p></li></ol><blockquote><p>纸上得来终觉浅，绝知此事要躬行！</p><p>知行合一，不断搭建自己的知识库,可以不断看到自己的成长过程!!!</p></blockquote><h1 id="选择hexo的理由？"><a href="#选择hexo的理由？" class="headerlink" title="选择hexo的理由？"></a>选择hexo的理由？</h1><p><strong>优点</strong></p><ul><li>中文支持：Hexo创建者是台湾人<a href="https://github.com/tommy351">Tommy Chen</a>，对中文支持很友好！</li><li>开源：Hexo开源，方便学习和修改</li><li>开源生态丰富：Hexo生态非常完善，各种插件极其丰富！而且基本全部免费、开源！</li><li>MarkDown友好：Hexo对Markdown支持非常完善，对比遍各种博客框架，hexo对Markdown支持最友好</li><li>方便部署：Hexo静态部署，不需要php,java之类的运行环境，方便各种部署环境，有很多免费的静态网页部署服务可用。不需要购买vps,就有各种免费的部署环境！最低0成本建立独立博客！</li><li>Git管理：所有文章和源码可以使用Git管理备份，方便保存和维护</li></ul><p><strong>缺点</strong></p><ul><li>对于初学者需要花费时间学习和配置：Hexo 基于 Node.js 开发，因此需要一定的技术水平和时间去学习和配置环境及插件等使用，但网上各种教程极其丰富。</li><li>功能不如动态网站丰富：相比于动态网站，Hexo 可以实现的功能相对有限，例如用户登录、评论系统等功能尚需其他工具或服务支持。</li><li>不利于频繁更改内容：由于 Hexo 是生成静态文件的方式，因此如果需要频繁更新网站内容，则需要重新构建整个网站并重新部署，这可能导致网站维护成本较高。</li><li>需要服务器来托管静态文件：虽然 Hexo 生成的静态文件可以直接访问，但仍需要一个服务器供其托管和发布，这可能会带来一些成本。</li></ul><p>在开源社区各路大神的努力下，已经诞生了不少博客框架，我按照我个人的喜好，选择了『Hexo』，你也可以选择其他框架搭建。</p><p>『Hexo』官网对于这个框架的描述是：</p><blockquote><p>A fast, simple &amp; powerful blog framework</p><p>快速、简洁且高效的博客框架</p></blockquote><p>参考：</p><ul><li><p><strong><a href="https://hexo.io/zh-cn/">hexo官方网站</a></strong></p></li><li><p><strong><a href="https://blog.17lai.site/posts/40300608/#%E9%80%89%E6%8B%A9Hexo%E7%9A%84%E7%90%86%E7%94%B1%EF%BC%9F">[三万字教程]基于Hexo的matery主题搭建博客并深度优化一站式完全教程 _</a></strong></p></li></ul>]]></content>
     

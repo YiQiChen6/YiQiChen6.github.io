@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yiqichen.com/archives/index.html</loc>
+    
+    <lastmod>2025-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yiqichen.com/categories/index.html</loc>
+    
+    <lastmod>2025-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://yiqichen.com/home/index.html</loc>
     
     <lastmod>2025-11-18</lastmod>
@@ -30,24 +48,6 @@
   
   <url>
     <loc>http://yiqichen.com/about/index.html</loc>
-    
-    <lastmod>2025-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yiqichen.com/archives/index.html</loc>
-    
-    <lastmod>2025-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yiqichen.com/categories/index.html</loc>
     
     <lastmod>2025-11-18</lastmod>
     
